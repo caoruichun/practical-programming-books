@@ -1,4 +1,4 @@
-[![Anurag的github统计信息](https://github-readme-stats.vercel.app/api?username=modupantu)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I'm [Anurag!](https://blog.modupantu.top) 👋
 # 计算机相关技术资料整理 
 
 ----------
