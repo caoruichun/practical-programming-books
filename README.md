@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://blog.modupantu.top) 👋
+
 # 计算机相关技术资料整理 
 
 ----------
